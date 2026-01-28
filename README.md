@@ -8,7 +8,7 @@ This repository documents my journey of mastering **Java Backend Development**. 
 - `com.collections.lab`: ArrayLists, HashMaps, and Streams.
 
 ## 🛠 Tech Stack
-- **Language:** Java 17+
+- **Language:** Java 21
 - **Build Tool:** Maven
 - **IDE:** IntelliJ IDEA
 
